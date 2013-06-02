@@ -19,10 +19,10 @@
         <item>carattere macchina da scrivere</item>
     </String-array>
     <string-array name="pref_homepage_choices_site_navigation">
-        <item>Corrente Pagina</item>
-        <item>pagina bianca</item>
-       <item>pagina predefinita</item>
-        <item>spesso visitato i siti web</item>
+        <item>Pagina Corrente</item>
+        <item>Pagina Bianca</item>
+       <item>Pagina Predefinita</item>
+        <item>Siti web visitati spesso</item>
         <item>siti Navigator</item>
          <item>Un'altra</item>
     </String-array>
@@ -37,9 +37,9 @@
         <item>No</item>
     </String-array>
     <string-array name="pref_homepage_choices">
-        <item>Corrente Pagina</item>
-        <item>pagina bianca</item>
-         <item>pagina predefinita</item>
+        <item>Pagina Corrente</item>
+        <item>Pagina Bianca</item>
+         <item>Pagina Predefinita</item>
         <item>siti web visitati spesso</item>
         <item>Un'altra</item>
     </String-array>
