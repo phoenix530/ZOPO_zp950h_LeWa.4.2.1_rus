@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="pref_op02_text_encoding_choices">
-        <item>Автодетектор</item>
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Юникод (UTF-8)</item>
-        <item>Unicode (UTF-16)</item>
-        <item>Chinese (GB2312)</item>
-        <item>Китайская (GBK)</item>
-        <item>Китайская (Big5)</item>
-        <item>Японская (ISO-2022-JP)</item>
-        <item>Японская (SHIFT_JIS)</item>
-        <item>Японская (EUC-JP)</item>
-        <item>Корейская (EUC-KR)</item>
-    </string-array>
-    <string-array name="pref_default_font_family_choices">
-        <item>Sans-serif</item>
-        <item>Serif</item>
-        <item>Моноширинный шрифт</item>
-    </string-array>
-    <string-array name="pref_homepage_choices_site_navigation">
-        <item>Текущая страница</item>
-        <item>Пустая страница</item>
-        <item>Страница по умолчанию</item>
-        <item>Часто посещаемые веб-сайты</item>
-        <item>Навигатор по сайтам</item>
-        <item>Другая</item>
-    </string-array>
-    <string-array name="pref_link_prefetch_choices">
-        <item>Никогда</item>
-        <item>Только через Wi-Fi</item>
-        <item>Всегда</item>
-    </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>Да</item>
-        <item>По требованию</item>
-        <item>Нет</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Текущая страница</item>
-        <item>Пустая страница</item>
-        <item>Страница по умолчанию</item>
-        <item>Часто посещаемые веб-сайты</item>
-        <item>Другая</item>
-    </string-array>
-    <string-array name="pref_text_size_choices">
-        <item>Мелкий</item>
-        <item>Маленький</item>
-        <item>Средний</item>
-        <item>Большой</item>
-        <item>Огромный</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Мелкий</item>
-        <item>Средний</item>
-        <item>Крупный</item>
-    </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Auto detector</item>
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Китайская (GBK)</item>
-        <item>Китайская (Big5)</item>
-        <item>Японская (ISO-2022-JP)</item>
-        <item>Японская (SHIFT_JIS)</item>
-        <item>Японская (EUC-JP)</item>
-        <item>Корейская (EUC-KR)</item>
-    </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Никогда</item>
-        <item>Только по Wi-Fi</item>
-        <item>Всегда</item>
-    </string-array>
+   <string-array name="pref_op02_text_encoding_choices">
+        <item>Avtodetektor</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Unicode (UTF-16)</item>
+        <item>Cinese (GB2312)</item>
+        <item>Cinese (GBK)</item>
+        <item>Cinese (Big5)</item>
+        <item>Giapponese (ISO-2022-JP)</item>
+        <item>giapponese (SHIFT_JIS)</item>
+        <item>giapponese (EUC-JP)</item>
+        <item>coreano (EUC-KR)</item>
+    </String-array>
+    <string-array name="pref_default_font_family_choices">
+        <item>Sans-serif</item>
+        <item>Serif</item>
+        <item>carattere macchina da scrivere</item>
+    </String-array>
+    <string-array name="pref_homepage_choices_site_navigation">
+        <item>Corrente Pagina</item>
+        <item>pagina bianca</item>
+       <item>pagina predefinita</item>
+        <item>spesso visitato i siti web</item>
+        <item>siti Navigator</item>
+         <item>Un'altra</item>
+    </String-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>Mai</item>
+        <item>solo tramite Wi-Fi</item>
+        <item>sempre</item>
+    </String-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>Sì</item>
+        <item>Su richiesta</item>
+        <item>No</item>
+    </String-array>
+    <string-array name="pref_homepage_choices">
+        <item>Corrente Pagina</item>
+        <item>pagina bianca</item>
+         <item>pagina predefinita</item>
+        <item>siti web visitati spesso</item>
+        <item>Un'altra</item>
+    </String-array>
+    <string-array name="pref_text_size_choices">
+        <item>Piccola</item>
+        <item>Piccola</item>
+        <item>medio</item>
+        <item>Grande</item>
+        <item>enorme</item>
+    </String-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Piccola</item>
+        <item>medio</item>
+        <item>Chiudi</item>
+    </String-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>rilevatore automatico</item>
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Cinese (GBK)</item>
+        <item>Cinese (Big5)</item>
+        <item>Giapponese (ISO-2022-JP)</item>
+        <item>giapponese (SHIFT_JIS)</item>
+        <item>giapponese (EUC-JP)</item>
+        <item>coreano (EUC-KR)</item>
+    </String-array>
+    <string-array name="pref_data_preload_choices">
+        <item>Mai</item>
+        <item>solo su Wi-Fi</item>
+        <item>sempre</item>
+    </String-array>
 </resources>
