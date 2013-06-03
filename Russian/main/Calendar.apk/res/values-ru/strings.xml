@@ -8,7 +8,7 @@
     <string name="clear_events">Elimina eventi</string>
     <string name="select_clear_calendars_title">Selezionare un account</string>
     <string name="clear_all_selected_events_title">Tutti gli eventi nel conto selezionato verrà eliminato.</string>
-    <string operazione di rimozione name="delete_completed">è completata.</string>
+    <string name="delete_completed">L'operazione di rimozione è completata.</string>
     <string name="delete_certain">OK</string>
     <string name="wait_deleting_tip">Attendere il completamento dell'operazione di eliminazione...</string>
     <string name="attendees_invalid_tip">Alcuni partecipanti non sono validi.</string>
