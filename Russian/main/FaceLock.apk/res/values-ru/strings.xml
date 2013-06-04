@@ -1,62 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Фейсконтроль</string>
-    <string name="receiver_app_name">Приемник для Фейсконтроля</string>
-    <string name="setup_app_name">Настройка Фейсконтроля</string>
-    <string name="enrollment_continue_label">Продолжить</string>
-    <string name="enrollment_done_label">Готово</string>
-    <string name="enrollment_initializing">Подготовка к работе...</string>
-    <string name="enrollment_start_message">Лицо должно быть в центре.</string>
-    <string name="error_no_face">Лица не видно</string>
-    <string name="enrollment_missing_landmarks">Черты лица не видны.</string>
-    <string name="enrollment_missing_landmarks_status">Не удалось распознать черты лица</string>
-    <string name="enrollment_off_center_status">Часть лица не видна</string>
-    <string name="enrollment_done">Готово!</string>
-    <string name="tutorial_app_name">О Фейсконтроле</string>
-    <string name="tutorial_header">Чтобы разблокировать экран, посмотрите в камеру телефона.</string>
-    <string name="tutorial_info_text">"Обратите внимание:
-
-"<li><ul>"функция \"Фейсконтроль\" менее надежна, чем графический ключ, PIN-код или пароль;
-
-"<li>разблокировать телефон может любой похожий на вас человек;</li>"
-
-"<li>ваши идентификационные данные хранятся на телефоне в закрытом доступе.</li>"
-
-"</ul></li></string>
-    <string name="tutorial_continue_label">Настроить</string>
-    <string name="intro_header">Как добиться оптимальных результатов</string>
-    <string name="intro_info_text">" "<li><ul>"Найдите в помещении место, где не слишком светло, но и не слишком темно.
-
- "<li>Держите телефон на уровне глаз.</li>"
-
- "</ul></li></string>
-    <string name="intro_continue_label">Продолжить</string>
-    <string name="endscreen_header">Все готово!</string>
-    <string name="endscreen_info_text">"Чтобы разблокировать телефон, просто посмотрите на него.
-
-Совет: чтобы повысить точность распознавания лица, сфотографируйтесь при разных условиях освещенности, на разном фоне и т. д."</string>
-    <string name="endscreen_continue_label">ОК</string>
-    <string name="addtosetup_app_name">Настройка распознавания</string>
-    <string name="addtosetup_header">Сфотографируйтесь в разных условиях.</string>
-    <string name="addtosetup_info_text">"Примеры
-
- "<li><ul>"При разном освещении
-
- "<li>В очках и без</li>"
-
- "<li>В шляпе и без</li>"
-
- "</ul></li>"
-Держите телефон на уровне глаз."</string>
-    <string name="addtosetup_continue_label">Продолжить</string>
-    <string name="service_app_name">Фейсконтроль</string>
-    <string name="service_face_not_found">Лицо не распознано</string>
-    <string name="service_not_a_match">Я не узнаю вас в гриме</string>
-    <string name="service_liveliness_start">Моргните</string>
-    <string name="service_liveliness_timeout">Моргание не зарегистрировано</string>
-    <string name="service_low_ligthing">Плохое освещение</string>
-    <string name="shared_initialize_error">Не удалось запустить Фейсконтроль</string>
-    <string name="shared_camera_error">Не удалось открыть Камеру</string>
-    <string name="shared_read_gallery_error">Повторите настройку</string>
-    <string name="shared_cancel_label">Отмена</string>
+    <string name="app_name"> Face control</string>
+    <string name="receiver_app_name"> Ricevitore per face-control</string>
+    <string name="setup_app_name"> Impostazione faccia di controllo</string>
+    <string name="enrollment_continue_label"> Continua</string>
+    <string name="enrollment_done_label"> Fatto</string>
+    <string name="enrollment_initializing"> Preparazione ...</string>
+    <string name="enrollment_start_message"> persona deve essere al centro.</string>
+    <string name="error_no_face"> gente non può vedere</string>
+    <string name="enrollment_missing_landmarks"> tratti del viso non sono visibili.</string>
+    <string name="enrollment_missing_landmarks_status"> mancato di riconoscere i tratti del viso</string>
+    <string name="enrollment_off_center_status"> Alcune persone non sono visibili</string>
+    <string name="enrollment_done">Fatto!</string>
+    <string name="tutorial_app_name">Chi Face control</string>
+    <string name="tutorial_header">Per sbloccare lo schermo, guardare nella fotocamera del telefono. </ string>
+    <string name="tutorial_info_text">"Si prega di notare:"<li> <ul>" Funzione \"Face control\" è meno affidabile rispetto alla chiave, PIN-codice grafico o la password;"<li> Sbloccare il telefono può un uomo come te; </li>""<li> Le credenziali sono memorizzate sul telefono in accesso chiuso.</li>""</ul></li></string>
+    <string name="tutorial_continue_label">Set</string>
+    <string name="intro_header">Come ottenere i migliori risultati</string>
+    <string name="intro_info_text"> "" <li> <ul> "Trova un posto nella stanza dove non troppo chiaro né troppo scuro."<li> Tenere il telefono cellulare a livello degli occhi.</li>""</ul> </li></string>
+    <string name="intro_continue_label">Continua</string>
+    <string name="endscreen_header">Pronti!</string>
+    <string name="endscreen_info_text">"Per sbloccare il telefono, basta guardare a lui. Suggerimento: Per aumentare la precisione di riconoscimento del volto, foto scattata in condizioni di luce diverse, su diversi sfondi, ecc "</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="addtosetup_app_name">impostazioni di riconoscimento</string>
+    <string foto name="addtosetup_header">presa in condizioni diverse.</string>
+    <string name="addtosetup_info_text"> "Esempi"<li> <ul>" Con diversa illuminazione"<li> In vetri e senza </li>""<li> Nel cappello e, senza </li>""</Ul> </li>" Tenere il telefono cellulare a livello degli occhi. "</string>
+    <string name="addtosetup_continue_label">Continua</string>
+    <string name="service_app_name">Face control</string>
+    <string persona name="service_face_not_found">​​non è riconosciuto</string>
+    <string name="service_not_a_match">Non ti riconoscono nel trucco</string>
+    <string name="service_liveliness_start">Blink</string>
+    <string name="service_liveliness_timeout">Blink registrato</string>
+    <string name="service_low_ligthing">scarsa illuminazione</string>
+    <string name="shared_initialize_error">non inizia Face control</string>
+    <string name="shared_camera_error">non aprire la fotocamera</string>
+    <string name="shared_read_gallery_error">sintonizzazione Ripeti</string>
+    <string name="shared_cancel_label">Annulla</string>
 </resources>
