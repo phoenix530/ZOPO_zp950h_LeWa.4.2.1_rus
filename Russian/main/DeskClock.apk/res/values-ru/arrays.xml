@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="alarm_set">
-        <item>Будильник зазвонит менее чем через минуту.</item>
-        <item>Будильник зазвонит через %1$s</item>
-        <item>Будильник зазвонит через %2$s</item>
-        <item>Будильник зазвонит через %1$s и %2$s</item>
-        <item>Будильник зазвонит через %3$s</item>
-        <item>Будильник зазвонит через %1$s и %3$s</item>
-        <item>Будильник зазвонит через %2$s и %3$s</item>
-        <item>Будильник зазвонит через %1$s, %2$s и %3$s</item>
+        <item>Allarme impostato tra meno di un minuto.</item>
+        <item>L'allarme suonerà tra %1$s</item>
+        <item>L'allarme suonerà tra %2$s</item>
+        <item>L'allarme suonerà tra %1$s и %2$s</item>
+        <item>L'allarme suonerà tra %3$s</item>
+        <item>L'allarme suonerà tra %1$s и %3$s</item>
+        <item>L'allarme suonerà tra%2$s и %3$s</item>
+        <item>L'allarme suonerà tra %1$s, %2$s и %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
     </string-array>
     <string-array name="snooze_duration_values">
         <item>5</item>
@@ -27,13 +27,13 @@
         <item>30</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Выкл.</item>
-        <item>5 минут</item>
-        <item>10 минут</item>
-        <item>15 минут</item>
-        <item>20 минут</item>
-        <item>25 минут</item>
-        <item>30 минут</item>
+        <item>Spento.</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>15 minuti</item>
+        <item>20 minuti</item>
+        <item>25 minuti</item>
+        <item>30 minuti</item>
     </string-array>
     <string-array name="auto_silence_values">
         <item>-1</item>
@@ -45,9 +45,9 @@
         <item>30</item>
     </string-array>
     <string-array name="volume_button_setting_entries">
-        <item>Нет</item>
-        <item>Отложить</item>
-        <item>Отключить</item>
+        <item>No</item>
+        <item>Rinviare</item>
+        <item>Terminare</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
