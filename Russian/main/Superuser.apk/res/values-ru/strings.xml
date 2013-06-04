@@ -18,7 +18,7 @@
     <string name="description_extras">Extra</string>
     <string name="page_label_info">Informazioni</string>
     <string name="page_label_apps">Programma</string>
-    <string name="page_label_log">Rivista</ ​string>
+    <string name="page_label_log">Rivista</string>
     <string name="menu_extras">Extra</string>
     <string name="menu_get_elite">Ottenere una versione elite</string>
     <string name="menu_preferences">Impostazioni</string>
@@ -117,12 +117,12 @@
     <string name="pref_pin_title">Usare del codice PIN</string>
     <string name="pref_change_pin_title">Cambiare il codice PIN</string>
     <string name="pref_timeout_title">Accesso timeout</string>
-    <string name="pref_timeout_summary">Applicazioni che non sono memorizzate, avrà accesso %1$d secondi dopo la richiesta</​​string>
+    <string name="pref_timeout_summary">Applicazioni che non sono memorizzate, avrà accesso %1$d secondi dopo la richiesta</string>
     <string name="pref_timeout_unit">Secondi</string>
     <string name="pref_automatic_action_title">Risposta automatica</string>
     <string name="pref_automatic_action_summary">Imposta come gestire le nuove richieste</string>
     <string name="pref_ghost_mode_title">Modalità fantasma</string>
-    <string name="pref_ghost_mode_message">Modalità fantasma nasconde l'icona SU del launcher. Icona sarà nascosta anche con il prossimo riavvio del launcher. Quando l'icona è nascosta si può ottenere l'accesso al SU digitando il codice segreto nel dialer - codice di default - *#*#787378737#*#* (*#*#superuser#*#*), ma può essere modificato. Se il dispositivo non dispone di un modulo telefonico, non è consigliabile attivare la modalità fantasma. Abilitare Fantasma? "</ String>
+    <string name="pref_ghost_mode_message">Modalità fantasma nasconde l'icona SU del launcher. Icona sarà nascosta anche con il prossimo riavvio del launcher. Quando l'icona è nascosta si può ottenere l'accesso al SU digitando il codice segreto nel dialer - codice di default - *#*#787378737#*#* (*#*#superuser#*#*), ma può essere modificato. Se il dispositivo non dispone di un modulo telefonico, non è consigliabile attivare la modalità fantasma. Abilitare Fantasma? "</String>
     <string name="pref_ghost_mode_enabled_message">Modalità fantasma abilitata. Riavviare il programma di avvio o riavviare il telefono per vedere i cambiamenti.</string>
     <string name="pref_secret_code_title">Codice di sicurezza</string>
     <string name="pref_secret_code_summary">Codice di Sicurezza: *#*#%1$s#*#*</string>
@@ -179,8 +179,8 @@
     <string name="updater_su_updated">SU binari aggiornato con successo</string>
     <string name="updater_step_download_manifest">Manifesto di carico ...</string>
     <string name="updater_step_parse_manifest">Analisi del manifesto ...</string>
-    <string name="updater_step_latest_version">L'ultima versione =</string>
-    <string name="updater_step_check_installed_version">Controllo versione installata =</string>
+    <string name="updater_step_latest_version">L'ultima versione</string>
+    <string name="updater_step_check_installed_version">Controllo versione installata</string>
     <string name="updater_step_fix_db">Correzione del database ...</string>
     <string name="updater_step_unpack_sutools">Strumenti disimballaggio fatti ...</string>
     <string name="updater_step_check_installed_path">Controllare il percorso di installazione in corso ...</string>
