@@ -197,7 +197,7 @@
     <string name="updater_find_su_failed">Impossibile trovare le risorse root. Aggiornamento non può essere continuato</string>
     <string name="updater_bad_install_location">Risorse SU ora installato in /sbin. Il programma non può aggiornarli. Si prega di modificare il firmware del dispositivo</string>
     <string name="updater_bad_install_location_explained">Programma non può aggiornare la radice risorse, perché devono essere installati in /sbin. Questo non è un errore di aggiornamento, si tratta di un difetto degli sviluppatori del kernel o firmware. È possibile continuare a lavorare con risorse obsolete SU.</string>
-    <string name="updater_failed_remount"> Il programma non è in grado di aggiornare le risorse su telefoni che hanno un qualche tipo di protezione dalle voci della sezione, ad esempio, S-ON. è possibile continuare a lavorare con mezzi obsoleti SU, o di aggiornarli con il ROM Manager</ string>
+    <string name="updater_failed_remount"> Il programma non è in grado di aggiornare le risorse su telefoni che hanno un qualche tipo di protezione dalle voci della sezione, ad esempio, S-ON. è possibile continuare a lavorare con mezzi obsoleti SU, o di aggiornarli con il ROM Manager</string>
     <string name="notification_text_allow">%1$s è stata concessa l'autorizzazione SU</string>
     <string name="notification_text_deny">%1$s non è stata concessa l'autorizzazione SU</string>
     <string name="notif_outdated_ticker">Il binario è obsoleto</string>
