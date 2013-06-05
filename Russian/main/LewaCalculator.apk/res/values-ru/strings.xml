@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Калькулятор</string>
-    <string name="error">Ошибка</string>
+    <string name="app_name">Calcolatrice</string>
+    <string name="error">Errore</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -21,8 +21,8 @@
     <string name="equal">=</string>
     <string name="sin">sin</string>
     <string name="cos">cos</string>
-    <string name="tan">tan</string>
-    <string name="pi">π</string>
+    <string name="tan">Tan</string>
+    <string name="pi">Tan</string>
     <string name="e">e</string>
     <string name="ln">ln</string>
     <string name="lg">log</string>
@@ -31,11 +31,11 @@
     <string name="sqrt">√</string>
     <string name="power">^</string>
     <string name="factorial">!</string>
-    <string name="basic">Основная панель</string>
-    <string name="advanced">Расширенная панель</string>
-    <string name="clear_history">Очистить историю</string>
-    <string name="text_copied_toast">Текст скопирован</string>
-    <string name="goback">Назад</string>
-    <string name="advance">Расширенный</string>
-    <string name="history">История</string>
+    <string name="basic">Pannello principale</string>
+    <string name="advanced">Pannello esteso</string>
+    <string name="clear_history">Cancella cronologia</string>
+    <string name="text_copied_toast">Il testo copiato</string>
+    <string name="goback">Indietro</string>
+    <string name="advance">Anticipo</string>
+    <string name="history">Storico</string>
 </resources>
