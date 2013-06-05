@@ -26,9 +26,9 @@
     <string name="group_wallpapers">Sfondi</string>
     <string name="out_of_space">Non c'è più spazio in questa schermata.</string>
     <string name="invalid_hotseat_item">Questo widget è troppo grande.</string>
-    <string name="shortcut_installed">Scorciatoia \"%S\ creata.</string>
-    <string name="shortcut_uninstalled">Scorciatoia \"%S\ rimossa.</string>
-    <string name="shortcut_duplicate">Scorciatoia \"%S\ esiste già.</string>
+    <string name="shortcut_installed">Scorciatoia \"%S\" creata.</string>
+    <string name="shortcut_uninstalled">Scorciatoia \"%S\" rimossa.</string>
+    <string name="shortcut_duplicate">Scorciatoia \"%S\" esiste già.</string>
     <string name="title_select_shortcut">Selezionare la scelta rapida</string>
     <string name="title_select_application">Selezionare l'applicazione</string>
     <string name="all_apps_button_label">Apps</string>
