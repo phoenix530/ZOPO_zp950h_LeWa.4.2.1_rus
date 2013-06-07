@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="download_method">
-        <item>Только WiFi</item>
-        <item>Разрешить все</item>
+        <item>Solo WiFi</item>
+        <item>Consenti tutto</item>
     </string-array>
     <string-array name="download_method_value">
         <item>0</item>
@@ -22,10 +22,10 @@
         <item>Custom</item>
     </string-array>
     <string-array name="bg_choise">
-        <item>Мечта</item>
-        <item>Капли</item>
-        <item>Сумерки</item>
-        <item>Янтарь</item>
+        <item>Sogno</item>
+        <item>Gocce</item>
+        <item>Crepuscolo</item>
+        <item>Ambra</item>
     </string-array>
     <string-array name="bg_choise_value">
         <item>0</item>
