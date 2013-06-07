@@ -7,9 +7,9 @@
         <item>ccmni+</item>
     </string-array>
     <string-array name="pref_adjust_interval">
-        <item>Нет</item>
-        <item>День</item>
-        <item>Месяц</item>
+        <item>No</item>
+        <item>Giorno</item>
+        <item>Mese</item>
     </string-array>
     <string-array name="detail_times">
         <item>@string/time_all</item>
