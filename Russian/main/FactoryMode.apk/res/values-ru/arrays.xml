@@ -2,6 +2,6 @@
 <resources>
     <string-array name="select_dialog_items">
         <item>ОК</item>
-        <item>Неудачно</item>
+        <item>scarsamente</item>
     </string-array>
 </resources>
