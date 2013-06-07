@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Программа установки приложений</string>
-    <string name="next">Далее</string>
-    <string name="install">Установить</string>
-    <string name="done">Готово</string>
-    <string name="security_settings_desc">Разрешить этому приложению:</string>
-    <string name="cancel">Отмена</string>
-    <string name="unknown">Неизвестно</string>
-    <string name="installing">Установка...</string>
-    <string name="install_done">Приложение установлено.</string>
-    <string name="install_confirm_question">Установить это приложение?</string>
-    <string name="install_confirm_question_no_perms">Вы хотите установить это приложение? Оно не требует специальных разрешений.</string>
-    <string name="install_confirm_question_update">Вы хотите установить это обновление установленного приложения? Ваши персональные данные сохранятся. Обновленное приложение получит доступ к:</string>
-    <string name="install_confirm_question_update_system">Вы хотите установить обновление встроенного приложения? Ваши персональные данные сохранятся. Обновленное приложение получит доступ к:</string>
-    <string name="install_confirm_question_update_no_perms">Вы хотите установить это обновление установленного приложения? Ваши персональные данные сохранятся. Оно не требует специальных разрешений.</string>
-    <string name="install_confirm_question_update_system_no_perms">Вы хотите установить это обновление установленного приложения? Ваши персональные данные сохранятся. Оно не требует специальных разрешений.</string>
-    <string name="install_failed">Приложение не установлено</string>
-    <string name="install_failed_invalid_apk">Файл поврежден</string>
-    <string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись</string>
-    <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий</string>
-    <string name="install_failed_cpu_abi_incompatible">Процессор телефона не поддерживает это приложение</string>
-    <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки</string>
-    <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен</string>
-    <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже</string>
-    <string name="install_failed_msg">Установить приложение %1$s не удалось</string>
-    <string name="launch">Открыть</string>
-    <string name="unknown_apps_dlg_title">Установка заблокирована</string>
-    <string name="unknown_apps_dlg_text">Из-за соображений безопасности на вашем телефоне заблокирована установка приложений, полученных не из Google Play</string>
-    <string name="ok">ОК</string>
-    <string name="settings">Настройки</string>
-    <string name="allow_source_dlg_title">Разрешить добавление нового источника для приложений?</string>
-    <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
+    <string name="app_name">Application Installer</string>
+    <string name="next">Successivo</string>
+    <string name="install">Installa</string>
+    <string name="done">Terminato</string>
+    <string name="security_settings_desc">Consentire a questa applicazione di:</string>
+    <string name="cancel">Annulla</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="installing">L'installazione di...</string>
+    <string name="install_done">L'applicazione è installata.</string>
+    <string name="install_confirm_question">Installare questa applicazione?</string>
+    <string name="install_confirm_question_no_perms">Si desidera installare questa applicazione? Non richiede autorizzazioni speciali.</string>
+    <string name="install_confirm_question_update">Si desidera installare l'aggiornamneto di questa applicazione? I dati esistenti saranno conservati. L'applicazione aggiornata avrà accesso a:</string>
+    <string name="install_confirm_question_update_system">Si desidera installare l'aggiornamento di sistema? I dati esistenti saranno conservati. L'applicazione aggiornata avrà accesso a:</string>
+    <string name="install_confirm_question_update_no_perms">Si desidera installare l'aggiornamneto di questa applicazione? I dati esistenti saranno conservati. Non richiede autorizzazioni speciali.</string>
+    <string name="install_confirm_question_update_system_no_perms">Si desidera installare l'aggiornamento di sistema? I dati esistenti saranno conservati. Non richiede autorizzazioni speciali.</string>
+    <string name="install_failed">Applicazione non installata</string>
+    <string name="install_failed_invalid_apk">Il file è danneggiato</string>
+    <string name="install_failed_inconsistent_certificates">Un pacchetto con quel nome e firma in conflitto è già installato </string>
+    <string name="install_failed_older_sdk">Questo pacchetto è supportato solo nelle versioni successive del sistema Android</string>
+    <string name="install_failed_cpu_abi_incompatible">Questa applicazione non è compatibile con il tuo smartphone</string>
+    <string name="install_failed_file_not_found">Il pacchetto specificato viene eliminato prima che l'installazione sia completa</string>
+    <string name="install_failed_verify_failed">Il pacchetto non viene convalidato e non può essere installato</string>
+    <string name="install_failed_verify_timeout">Impossibile convalidare il pacchetto. Provare più tardi</string>
+    <string name="install_failed_msg">Impossibile installare applicazione %1$s</string>
+    <string name="launch">Aperto</string>
+    <string name="unknown_apps_dlg_title">Installazione bloccata</string>
+    <string name="unknown_apps_dlg_text">Per sicurezza, sul tuo telefono non è possibile installare applicazioni da fonti sconosciute</string>
+    <string name="ok">Ok</string>
+    <string name="settings">Impostazioni</string>
+    <string name="allow_source_dlg_title">Consentire l'aggiunta di una nuova fonte per le applicazioni?</string>
+    <string name="allow_source_dlg_text">"%1$s vuole installare altre applicazioni.
 
-Разрешить и запомнить выбор?"</string>
-    <string name="manage_applications">Управление приложениями</string>
-    <string name="dlg_app_replacement_title">Заменить приложение</string>
-    <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
+Permetti e ricorda scelta?"</string>
+    <string name="manage_applications">Gestisci applicazioni</string>
+    <string name="dlg_app_replacement_title">Sostituisci applicazione</string>
+    <string name="dlg_app_replacement_statement">"L'applicazione sostituirà la precedente.
 
-Все пользовательские данные будут сохранены."</string>
-    <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете - системное. Хотите заменить?
+Verranno salvati tutti i dati utente."</string>
+    <string name="dlg_sys_app_replacement_statement">"L'applicazione che si sta installando è di sistema. Vuoi sostituire?
 
-Все пользовательские данные будут сохранены."</string>
-    <string name="out_of_space_dlg_title">Недостаточно места</string>
-    <string name="out_of_space_dlg_text">Установить приложение %1$s не удалось. Освободите место и повторите попытку</string>
-    <string name="dlg_ok">ОК</string>
-    <string name="app_not_found_dlg_title">Приложение не найдено</string>
-    <string name="app_not_found_dlg_text">Приложение не было найдено в списке установленных приложений</string>
-    <string name="uninstall_application_title">Удаление приложения</string>
-    <string name="uninstall_update_title">Удаление обновления</string>
-    <string name="uninstall_activity_text">%1$s является частью следующего приложения:</string>
-    <string name="uninstall_application_text">Приложение будет удалено</string>
-    <string name="uninstall_application_text_all_users">Вы хотите удалить это приложение для <b>всех</b> пользователей? Приложение и его данные будут удалены для <b>всех</b> пользователей устройства.</string>
-    <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
-    <string name="uninstalling">Удаление...</string>
-    <string name="uninstall_done">Удаление завершено</string>
-    <string name="uninstall_failed">Ошибка при удалении</string>
-    <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства</string>
-    <string name="manage_device_administrators">Настройки администрирования</string>
-    <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
-    <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
-    <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
-    <string name="newPerms">Новые</string>
-    <string name="allPerms">Все</string>
-    <string name="privacyPerms">Конфиденциальность</string>
-    <string name="devicePerms">Доступ к устройству</string>
-    <string name="no_new_perms">Это обновление не требует новых разрешений.</string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">НОВОЕ: </font></string>
-    <string name="perms_description_app">Provided by %1$s.</string>
-    <string name="no_permissions">Разрешений не требуется</string>
-    <string name="perm_costs_money">могут взыматься деньги</string>
-    <string name="perms_title_app">Использование %1$s</string>
+Verranno salvati tutti i dati utente."</string>
+    <string name="out_of_space_dlg_title">Non c'è abbastanza spazio</string>
+    <string name="out_of_space_dlg_text">Installazione dell'applicazione %1$s non riuscita. Liberare spazio su disco e riprovare</string>
+    <string name="dlg_ok">Ok</string>
+    <string name="app_not_found_dlg_title">Applicazione non trovata</string>
+    <string name="app_not_found_dlg_text">L'applicazione non è stata trovato nell'elenco delle applicazioni installate</string>
+    <string name="uninstall_application_title">Rimozione dell'applicazione</string>
+    <string name="uninstall_update_title">Rimozione degli aggiornamenti</string>
+    <string name="uninstall_activity_text">%1$s fa parte delle seguenti applicazioni:</string>
+    <string name="uninstall_application_text">L'applicazione verrà eliminata</string>
+    <string name="uninstall_application_text_all_users">Vuoi rimuovere questa applicazione per <b> tutti </b> gli utenti? L'applicazione ed i suoi dati saranno cancellati per <b> tutti </b> gli utenti del dispositivo.</string>
+    <string name="uninstall_update_text">La versione originale dell'applicazione verrà ripristinata</string>
+    <string name="uninstalling">Disintallazione...</string>
+    <string name="uninstall_done">Disinstallazione completata</string>
+    <string name="uninstall_failed">Disinstallazione non riuscita</string>
+    <string name="uninstall_failed_device_policy_manager">Impossibile disinstallare il pacchetto perchè indispensabile per la gestione del dispositivo</string>
+    <string name="manage_device_administrators">Impostazioni di amministrazione</string>
+    <string name="uninstall_failed_msg">Rimozionde dell'applicazione %1$s non riuscita</string>
+    <string name="Parse_error_dlg_title">Errore di sintassi</string>
+    <string name="Parse_error_dlg_text">Problema durante l'analisi del pacchetto</string>
+    <string name="newPerms">Nuovo</string>
+    <string name="allPerms">Tutti i</string>
+    <string name="privacyPerms">Privacy</string>
+    <string name="devicePerms">Accesso al dispositivo</string>
+    <string name="no_new_perms">Questo aggiornamento non richiede nuovi permessi.</string>
+    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NUOVO: </font></string>
+    <string name="perms_description_app">Fornito da %1$s.</string>
+    <string name="no_permissions">Non servono permessi</string>
+    <string name="perm_costs_money">Questo può costare soldi</string>
+    <string name="perms_title_app">Utilizzare %1$s</string>
 </resources>
