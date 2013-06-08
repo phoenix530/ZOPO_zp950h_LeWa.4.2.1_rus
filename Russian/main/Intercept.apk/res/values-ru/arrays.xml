@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="modes_array">
-        <item>Перехват вызовов и сообщений</item>
-        <item>Перехват вызовов</item>
-        <item>Перехват сообщений</item>
+        <item>Blocco delle chiamate e dei messaggi</item>
+        <item>Blocco delle chiamate</item>
+        <item>Blocco dei messaggi</item>
     </string-array>
     <string-array name="number_list">
-        <item>Черный список</item>
-        <item>Белый список</item>
+        <item>Lista nera</item>
+        <item>Lista bianca</item>
     </string-array>
     <string-array name="block_information_list">
-        <item>Сообщения</item>
-        <item>Звонки</item>
+        <item>Messaggi</item>
+        <item>Chiamate</item>
     </string-array>
 </resources>
