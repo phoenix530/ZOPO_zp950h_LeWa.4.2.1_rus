@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Пароль должен содержать не менее %d букв</item>
-        <item quantity="one">Пароль должен содержать не менее 1 буквы</item>
+        <item quantity="other">La password deve contenere almeno %d caratteri</item>
+        <item quantity="one">La password deve contenere almeno una lettera</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Пароль должен содержать не менее %d строчных букв</item>
-        <item quantity="one">Пароль должен содержать не менее 1 строчной буквы</item>
+        <item quantity="other">La password deve contenere almeno %d lettere minuscole</item>
+        <item quantity="one">La password deve contenere almeno una lettera minuscola</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Пароль должен содержать не менее %d заглавных букв</item>
-        <item quantity="one">Пароль должен содержать не менее 1 заглавной буквы</item>
+        <item quantity="other">La password deve contenere almeno %d caratteri maiuscoli</item>
+        <item quantity="one">ПароLa password deve contenere almeno una lettera maiuscola</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Пароль должен содержать не менее %d единичных цифр</item>
-        <item quantity="one">Пароль должен содержать не менее 1 единичной цифры</item>
+        <item quantity="other">La password deve contenere almeno %d di singole cifre</item>
+        <item quantity="one">La password deve contenere almeno una sola cifra</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Пароль должен содержать не менее %d специальных символов</item>
-        <item quantity="one">Пароль должен содержать не менее 1 специального символа</item>
+        <item quantity="other">La password deve contenere almeno% d caratteri speciali</item>
+        <item quantity="one">La password deve contenere almeno un carattere speciale</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать не менее %d небуквенных символов</item>
-        <item quantity="one">Пароль должен содержать не менее 1 небуквенного символа</item>
+        <item quantity="other">La password deve contenere almeno %d caratteri non alfabetici</item>
+        <item quantity="one">La password deve contenere almeno un carattere non alfabetici</item>
     </plurals>
 </resources>
