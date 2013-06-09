@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Decoded by jBART (BurgerZ <az.burgerz@gmail.com)>--><resources>
     <string-array name="emailAddressTypes">
-        <item>Личный</item>
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,31 +17,32 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Домашний</item>
-        <item>Мобильный</item>
-        <item>Рабочий</item>
-        <item>Рабочий факс</item>
-        <item>Домашний факс</item>
-        <item>Пейджер</item>
-        <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Casa</item>
+        <item>Cellulare</item>
+        <item>Lavoro</item>
+        <item>Fax lavoro</item>
+        <item>Fax casa</item>
+        <item>Cercapersone</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другой</item>
-        <item>Создать свой ярлык</item>
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Домашний</item>
-        <item>Рабочий</item>
-        <item>Другое</item>
-        <item>Создать свой ярлык</item>
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Altro</item>
+        <item>Personalizzato</item>
     </string-array>
     <array name="carrier_properties" />
-</resources>
+    </resources>
+
