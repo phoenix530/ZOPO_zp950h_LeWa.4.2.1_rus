@@ -64,9 +64,9 @@
         <item>@null</item>
     </array>
     <string-array name="gemini_sim_roaming_reminder_entries">
-        <item>Первый раз</item>
-        <item>Всегда</item>
-        <item>Никогда</item>
+        <item>Prima volta</item>
+        <item>Sempre</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="gemini_sim_roaming_reminder_values">
         <item>0</item>
@@ -74,28 +74,28 @@
         <item>2</item>
     </string-array>
     <string-array name="language_list_values">
-        <item>Все языки</item>
-        <item>Немецкий</item>
-        <item>Английский</item>
-        <item>Итальянский</item>
-        <item>Французский</item>
-        <item>Испанский</item>
-        <item>Голландский</item>
-        <item>Шведский</item>
-        <item>Датский</item>
-        <item>Португальский</item>
-        <item>Финский</item>
-        <item>Норвежский</item>
-        <item>Греческий</item>
-        <item>Турецкий</item>
-        <item>Венгерский</item>
-        <item>Польский</item>
-        <item>Другие</item>
-        <item>Чешский</item>
-        <item>Иврит</item>
-        <item>Арабский</item>
-        <item>Русский</item>
-        <item>Исландский</item>
+        <item>Guida</item>
+        <item>Tedesco</item>
+        <item>Inglese</item>
+        <item>Italiano</item>
+        <item>Francese</item>
+        <item>Spagnolo</item>
+        <item>Olandese</item>
+        <item>Svedese</item>
+        <item>Danese</item>
+        <item>Portoghese</item>
+        <item>Finlandese</item>
+        <item>Norvegese</item>
+        <item>Greco</item>
+        <item>Turco</item>
+        <item>Ungherese</item>
+        <item>Polacco</item>
+        <item>Altro</item>
+        <item>Ceco</item>
+        <item>Ebraico</item>
+        <item>Arabo</item>
+        <item>Russo</item>
+        <item>Islandese</item>
     </string-array>
     <string-array name="language_list_id">
         <item>-1</item>
@@ -168,22 +168,22 @@
         <item>@string/pref_camera_coloreffect_entry_sepiagreen</item>
     </string-array>
     <string-array name="vt_incall_setting_local_video_effect_values">
-        <item>none</item>
-        <item>mono</item>
-        <item>sepia</item>
-        <item>negative</item>
-        <item>solarize</item>
-        <item>posterize</item>
-        <item>aqua</item>
-        <item>pastel</item>
-        <item>mosaic</item>
-        <item>red-tint</item>
-        <item>blue-tint</item>
-        <item>green-tint</item>
-        <item>blackboard</item>
-        <item>whiteboard</item>
-        <item>sepiablue</item>
-        <item>sepiagreen</item>
+        <item>None</item>
+        <item>Mono</item>
+        <item>Sepia</item>
+        <item>Negative</item>
+        <item>Solarize</item>
+        <item>Posterize</item>
+        <item>Aqua</item>
+        <item>Pastel</item>
+        <item>Mosaic</item>
+        <item>Red-tint</item>
+        <item>Blue-tint</item>
+        <item>Green-tint</item>
+        <item>Blackboard</item>
+        <item>Whiteboard</item>
+        <item>Sepiablue</item>
+        <item>Sepiagreen</item>
     </string-array>
     <string-array name="vt_incall_video_setting_entries">
         <item>@string/vt_local_video_zoom</item>
@@ -223,9 +223,9 @@
         <item>2</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
-        <item>авто</item>
-        <item>Только сети 3G</item>
-        <item>Только сети 2G</item>
+        <item>Auto</item>
+        <item>Solo rete 3G</item>
+        <item>Solo rete 2G</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_values">
         <item>0</item>
@@ -233,9 +233,9 @@
         <item>1</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices_cmcc">
-        <item>GSM/TD-SCDMA (автоматический режим)</item>
-        <item>Только TD-SCDMA</item>
-        <item>Только GSM</item>
+        <item>GSM/TD-SCDMA (modalità automatica)</item>
+        <item>Solo TD-SCDMA</item>
+        <item>Solo GSM</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_values_cmcc">
         <item>0</item>
@@ -243,17 +243,17 @@
         <item>1</item>
     </string-array>
     <string-array name="umts_network_preferences_choices">
-        <item>авто</item>
-        <item>Только сети 3G</item>
+        <item>Auto</item>
+        <item>Solo rete</item>
     </string-array>
     <string-array name="umts_network_preferences_values">
         <item>0</item>
         <item>2</item>
     </string-array>
     <string-array name="call_reject_mode_entries">
-        <item>Выкл.</item>
-        <item>Все номера</item>
-        <item>Список автоматического отклонения</item>
+        <item>Spento.</item>
+        <item>Tutti i numeri</item>
+        <item>Lista di rifiuto automatico</item>
     </string-array>
     <string-array name="call_reject_mode_values">
         <item>0</item>
@@ -261,28 +261,28 @@
         <item>2</item>
     </string-array>
     <string-array name="call_reject_dialog_array">
-        <item>Контакты</item>
-        <item>Журналы вызовов</item>
+        <item>Contatti</item>
+        <item>Registro delle chiamate</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Настройки сети по умолчанию</item>
-        <item>Скрыть номер</item>
-        <item>Показывать номер</item>
+        <item>Impostazioni di rete predefinite</item>
+        <item>Nascondi il numero</item>
+        <item>Mostra il numero</item>
     </string-array>
     <string-array name="clir_values">
-        <item>По умолчанию</item>
-        <item>Спрятать</item>
-        <item>Показать</item>
+        <item>Default</item>
+        <item>Nascondi</item>
+        <item>Mostra</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
-        <item>Только EvDo</item>
-        <item>CDMA без EvDo</item>
-        <item>CDMA/EvDo (авторежим)</item>
-        <item>GSM/WCDMA (авторежим)</item>
-        <item>Только сети 3G</item>
-        <item>Только сети 2G</item>
-        <item>GSM/WCDMA (предпочтение)</item>
+        <item>Solo EvDo</item>
+        <item>CDMA senza EvDo</item>
+        <item>CDMA/EvDo (modalità auto)</item>
+        <item>GSM/WCDMA (modalità auto)</item>
+        <item>Solo rete 3G</item>
+        <item>Solo rete 2G</item>
+        <item>GSM/WCDMA (preferenza)</item>
     </string-array>
     <string-array name="preferred_network_mode_values">
         <item>7</item>
@@ -303,13 +303,13 @@
         <item>4</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>английский</item>
-        <item>французский</item>
-        <item>испанский</item>
-        <item>японский</item>
-        <item>корейский</item>
-        <item>китайский</item>
-        <item>иврит</item>
+        <item>Inglese</item>
+        <item>Francese</item>
+        <item>Spagnolo</item>
+        <item>Giapponese</item>
+        <item>Coreano</item>
+        <item>Cinese</item>
+        <item>Ebraico</item>
     </string-array>
     <string-array name="list_language_values">
         <item>1</item>
@@ -321,8 +321,8 @@
         <item>7</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Только домашняя</item>
-        <item>Автоматически</item>
+        <item>Solo di casa</item>
+        <item>Automaticamente</item>
     </string-array>
     <string-array name="cdma_system_select_values">
         <item>0</item>
@@ -337,10 +337,10 @@
         <item>1</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>Телетайп выключен</item>
-        <item>Полнофункциональный телетайп</item>
-        <item>Телетайп с возможностью слышать собеседника</item>
-        <item>Телетайп с возможностью передачи голоса</item>
+        <item>Telescrivente off</item>
+        <item>Telescrivente piena</item>
+        <item>Telescrivente con la capacità di ascoltare l'altra parte</item>
+        <item>Telescrivente per trasmettere la voce</item>
     </string-array>
     <string-array name="tty_mode_values">
         <item>0</item>
@@ -349,27 +349,27 @@
         <item>3</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Обычные</item>
-        <item>Длинные</item>
+        <item>Solito</item>
+        <item>Lungo</item>
     </string-array>
     <string-array name="dtmf_tone_values">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
-        <item>Всегда</item>
-        <item>Только в тихом режиме</item>
-        <item>Никогда</item>
+        <item>Sempre</item>
+        <item>Solo in modalità silenziosa</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_values">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>Sempre</item>
+        <item>Silenzioso</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="dialpad_tone_types">
-        <item>Тон</item>
-        <item>Пианино</item>
-        <item>Гитара</item>
+        <item>Tono</item>
+        <item>Piano</item>
+        <item>Chitarra</item>
     </string-array>
     <string-array name="dialpad_tone_type_values">
         <item>0</item>
