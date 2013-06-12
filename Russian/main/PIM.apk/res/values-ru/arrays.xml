@@ -97,48 +97,48 @@
         <item>[agree]</item>
     </string-array>
     <string-array name="default_smiley_names">
-        <item>Радостный</item>
-        <item>Грустный</item>
-        <item>Подмигивает</item>
-        <item>Показывает язык</item>
-        <item>Удивлен</item>
-        <item>Поцелуй</item>
-        <item>Кричит</item>
-        <item>Крутой</item>
-        <item>Не болтай попусту</item>
-        <item>В замешательстве</item>
-        <item>Смущение</item>
-        <item>Ангел</item>
-        <item>Нерешительный</item>
-        <item>Плачет</item>
-        <item>Не скажу</item>
-        <item>Смех</item>
-        <item>Озадаченный</item>
-        <item>Сердце</item>
-        <item>Злой</item>
-        <item>Ухмылка</item>
-        <item>Покерфейс</item>
+        <item>Joyful</item>
+        <item>Triste</item>
+        <item>Winks</item>
+        <item>Spettacoli</item>
+        <item>Sorpreso</item>
+        <item>Bacio</item>
+        <item>Urla</item>
+        <item>Steep</item>
+        <item>Non cialda</item>
+        <item>In perditaе</item>
+        <item>Confusione</item>
+        <item>Angelo</item>
+        <item>Irresoluto</item>
+        <item>Pianto</item>
+        <item>Non dirò</item>
+        <item>Riso</item>
+        <item>Blank</item>
+        <item>Cuore</item>
+        <item>Il male</item>
+        <item>Sorridere</item>
+        <item>Pokerfeys</item>
     </string-array>
     <string-array name="default_quick_texts">
-        <item>Ты где?</item>
-        <item>Чем занимаешься?</item>
-        <item>Перезвони! Пожалуйста!</item>
-        <item>Извини, я на встрече.</item>
-        <item>Скоро перезвоню.</item>
-        <item>Не волнуйся! Я в порядке.</item>
-        <item>На пути домой.</item>
-        <item>Скоро прибуду.</item>
-        <item>Будь там!</item>
+        <item>Dove sei?</item>
+        <item>Che cosa fare?</item>
+        <item>Call me back! Per favore!</item>
+        <item>Scusa, sono in riunione.</item>
+        <item>Risponderemo al più presto.</item>
+        <item>Non si preoccupi! Io sto beneе.</item>
+        <item>Sulla strada di casa.</item>
+        <item>Presto arriverà.</item>
+        <item>Essere lì!</item>
     </string-array>
     <string-array name="pref_mms_creation_mode_choices">
-        <item>Ограниченный режим</item>
-        <item>Режим предупреждения</item>
-        <item>Свободный режим</item>
+        <item>Modalità limitata</item>
+        <item>Modalità di avviso</item>
+        <item>Modalità Free</item>
     </string-array>
     <string-array name="pref_mms_creation_mode_values">
-        <item>Ограничение</item>
-        <item>Предупреждение</item>
-        <item>Свободно</item>
+        <item>Restrizione</item>
+        <item>Attenzione</item>
+        <item>Gratuito</item>
     </string-array>
     <string-array name="pref_mms_size_limit_choices">
         <item>100K</item>
@@ -151,32 +151,32 @@
         <item>300</item>
     </string-array>
     <string-array name="pref_key_mms_priority_choices">
-        <item>Высокий</item>
-        <item>Нормальный</item>
-        <item>Низкий</item>
+        <item>Alto</item>
+        <item>Normale</item>
+        <item>Basso</item>
     </string-array>
     <string-array name="pref_key_mms_priority_values">
-        <item>Высокий</item>
-        <item>Нормальный</item>
-        <item>Низкий</item>
+        <item>Alto</item>
+        <item>Normale</item>
+        <item>Basso</item>
     </string-array>
     <string-array name="pref_sms_input_mode_choice">
-        <item>GSM алфавит</item>
-        <item>Юникод</item>
-        <item>Авто</item>
+        <item>GSM alfabeto</item>
+        <item>Unicode</item>
+        <item>Auto</item>
     </string-array>
     <string-array name="pref_sms_input_mode_values">
-        <item>GSM алфавит</item>
-        <item>Юникод</item>
-        <item>Авто</item>
+        <item>GSM alfabeto</item>
+        <item>Unicode</item>
+        <item>Auto</item>
     </string-array>
     <string-array name="pref_sms_save_location_choices">
-        <item>Телефон</item>
-        <item>SIM карта</item>
+        <item>Telefono</item>
+        <item>SIM CARD</item>
     </string-array>
     <string-array name="pref_sms_save_location_values">
-        <item>Телефон</item>
-        <item>SIM карта</item>
+        <item>Telefono</item>
+        <item>SIM CARD</item>
     </string-array>
     <string-array name="ip_call_location_provinces">
         <item>BeiJing</item>
@@ -357,27 +357,27 @@
         <item>Заметка</item>
     </string-array>
     <string-array name="select_dialog_items">
-        <item>1 сек</item>
-        <item>2 сек</item>
-        <item>3 сек</item>
-        <item>4 сек</item>
-        <item>5 сек</item>
-        <item>6 сек</item>
-        <item>7 сек</item>
-        <item>8 сек</item>
-        <item>9 сек</item>
-        <item>10 сек</item>
-        <item>Другое...</item>
+        <item>1 SEC</item>
+        <item>2 SEC</item>
+        <item>3 SEC</item>
+        <item>4 SEC</item>
+        <item>5 SEC</item>
+        <item>6 SEC</item>
+        <item>7 SEC</item>
+        <item>8 SEC</item>
+        <item>9 SEC</item>
+        <item>10 SEC</item>
+        <item>Altro...</item>
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
-        <item>Всегда</item>
-        <item>Только в бесшумном</item>
-        <item>Никогда</item>
+        <item>Sempre</item>
+        <item>Solo silenzioso</item>
+        <item>Mai</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
-        <item>всегда</item>
-        <item>бесшумно</item>
-        <item>никогда</item>
+        <item>Sempre</item>
+        <item>Silenzioso</item>
+        <item>Mai</item>
     </string-array>
     <item type="array" name="APKTOOL_DUMMY_0036">false</item>
 </resources>
